@@ -1,5 +1,5 @@
 train: ../train/images
 val: ../test/images
 
-nc: 6
-names: ['Hello', 'IloveYou', 'No', 'Please', 'Thanks', 'Yes']
+nc: 5
+names: ['Hello',  'No', 'Please', 'Thanks', 'Yes']
